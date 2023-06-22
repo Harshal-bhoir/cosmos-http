@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{24344FB3-C0EB-48CE-BCCD-C06D5F54630F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CosmosHTTPtrigger/CosmosHTTPtrigger.cs">
+    <Files>
+      <File FileName="CosmosHTTPtrigger/CosmosHTTPtrigger.cs" Line="29" Column="10" />
+      <File FileName="CosmosHTTPtrigger/local.settings.json" Line="5" Column="42" />
+      <File FileName="CosmosHTTPtrigger/Models/Employee.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CosmosHTTPtrigger" expanded="True">
+            <Node name="CosmosHTTPtrigger" expanded="True" selected="True">
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CosmosHTTPtrigger PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
